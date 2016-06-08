@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:49:22.783155
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:20
 #+TITLE: 黃龍四家錄（序）
 #+PROPERTY: CBETA_ID X69n1340
 #+PROPERTY: ID KR6q0276
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6q0276_X_001-0198a> 
 #+PROPERTY: JUAN 1
 
-No.1340-A黃龍四家語錄序¶
+* No.1340-A黃龍四家語錄序¶
 
 言而足。終日言而盡道。言而不足。終日言而盡物。足¶
 與不足。二理俱墮。而世豈識之哉。粤有黃龍四世孫¶
